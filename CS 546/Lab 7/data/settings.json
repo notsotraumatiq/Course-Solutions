@@ -1,0 +1,6 @@
+{
+  "mongoConfig": {
+    "serverUrl": "mongodb://localhost:27017/",
+    "database": "Atiq_Patel_lab7"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cs-546-lab-8",
+  "version": "1.0.0",
+  "description": "lab 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "Atiq Patel 10432883",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cs-546-lab-6",
+  "version": "1.0.0",
+  "description": "lab 6",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/notsotraumatiq.git"
+  },
+  "keywords": [
+    "work"
+  ],
+  "author": "Atiq Patel 10432883",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/notsotraumatiq/issues"
+  },
+  "homepage": "https://github.com/www.github.com/notsotraumatiq#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

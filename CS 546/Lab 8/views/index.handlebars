@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    People Found
+  </title>
+</head>
+<section>
+  <h1>People Found</h1>
+    
+      <article class="result">
+        {{#each result}}
+            <h2><a href="/details/{{ this.id }}">{{this.firstName}} {{this.lastName}}</a></h2>
+        {{!-- <p>{{body}}</p> --}}
+        {{/each}}
+      </article>
+     
+</section>
+</html>

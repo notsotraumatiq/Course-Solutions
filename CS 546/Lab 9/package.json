@@ -1,0 +1,17 @@
+{
+  "name": "cs-546-lab-9",
+  "version": "1.0.0",
+  "description": "Lab 9",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "Atiq Patel 10432883",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  }
+}

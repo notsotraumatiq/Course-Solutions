@@ -1,0 +1,11 @@
+{
+  "name": "cs-546-lab-4",
+  "version": "1.0.0",
+  "description": "just another program",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Atiq Patel 10432883",
+  "license": "ISC"
+}

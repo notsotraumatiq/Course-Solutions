@@ -1,0 +1,23 @@
+{
+  "name": "cs-546-lab-10",
+  "version": "1.0.0",
+  "description": "Just another Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start ",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Encrypt",
+    "Decrypt"
+  ],
+  "author": "Atiq Patel 10432883",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "express-session": "^1.16.1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cs-546-lab-2",
+  "version": "1.0.0",
+  "description": "Lab 2 i guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/notsotraumatiq.git"
+  },
+  "keywords": [
+    "lab",
+    "2"
+  ],
+  "author": "Atiq Patel 10432883",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/notsotraumatiq/issues"
+  },
+  "homepage": "https://github.com/www.github.com/notsotraumatiq#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dependencies": "0.0.1"
+  }
+}

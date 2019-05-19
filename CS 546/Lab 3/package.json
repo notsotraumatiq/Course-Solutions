@@ -1,0 +1,26 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "lab 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/notsotraumatiq.git"
+  },
+  "keywords": [
+    "traumatiq"
+  ],
+  "author": "Atiq Patel 10432883",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/notsotraumatiq/issues"
+  },
+  "homepage": "https://github.com/www.github.com/notsotraumatiq#readme",
+  "dependencies": {
+    "dependencies": "0.0.1"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,101 @@
+body {
+  background: #000000;
+  font-family: Georgia, "Cambria", "Times New Roman", Times, serif;
+  font-size: 15pt;
+}
+
+main {
+  max-width: 75%;
+  margin: auto;
+  align-self: auto;
+}
+
+form {
+  resize: both;
+  align-self: auto;
+  align-content: center;
+
+}
+
+header {
+  border-bottom: 1px solid #afafaf;
+}
+
+h1 {
+  align-self: auto;
+  fill-opacity: inherit;
+  font: 2em sans-serif;
+  color: #364d36;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
+  font-size: 1.05rem;
+}
+
+html{
+  margin: 2px;
+  align-self: auto;
+  background-blend-mode: color-burn;
+}
+body{
+  align-self: auto;
+  align-content: center;
+  background: #95b0d4
+}
+p {
+  font-size: 1rem;
+  line-height: 2;
+  font-family: cursive;
+  font-weight: 100;
+}
+button{
+  align-self: auto;
+  scale: 10;
+}
+.post {
+  width: 75%;
+  border-bottom: 1px dashed #333;
+}
+
+.is-prime {
+  color: #00e676;
+}
+
+.not-prime {
+  color: #ff3d00;
+}
+
+footer{
+  align-self: auto;
+  resize: both;
+  font: 100;
+  color: #333;
+}
